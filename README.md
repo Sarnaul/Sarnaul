@@ -4,9 +4,11 @@
 
 Меня зовут Дима, и я начинающий специалист по качеству. Всегда готов кропотливо и не покладая рук работать, чтобы всё было на высшем уровне. Мне нравится разбираться во всём до мелочей, поэтому всегда стараюсь изучать новые методики и подходы, чтобы быть на передовой в своей области. 
 
+### 📄 [Моё резюме](https://drive.google.com/file/d/1qzmS-QHZpVyo54Knji9ebJeCD16nQIPR/view?usp=drive_link)
+
 ### 📫 Как со мной связаться: 
 <p>
-<a href= "https://www.linkedin.com/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<a href= "https://www.linkedin.com/in/sarnaul/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/sarnaul"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 <a href= "mailto:sarnaul.g@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
